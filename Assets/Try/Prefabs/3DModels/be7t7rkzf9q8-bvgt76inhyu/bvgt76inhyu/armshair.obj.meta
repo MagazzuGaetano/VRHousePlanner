@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 1edf17d920439694c894aecd4095dc56
+timeCreated: 1497014756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armchair_Cubo
+    100002: armchair_Cubo_1
+    100004: armchair_Cubo_2
+    100006: armchair_Nullo1_Cubo1
+    100008: armchair_Nullo_1_Cubo2
+    100010: armchair_Nullo_Cilindro
+    100012: armchair_Nullo_Cilindro_1
+    100014: armchair_Nullo_Cilindro_2
+    100016: armchair_Nullo_Cilindro_3
+    100018: //RootNode
+    400000: armchair_Cubo
+    400002: armchair_Cubo_1
+    400004: armchair_Cubo_2
+    400006: armchair_Nullo1_Cubo1
+    400008: armchair_Nullo_1_Cubo2
+    400010: armchair_Nullo_Cilindro
+    400012: armchair_Nullo_Cilindro_1
+    400014: armchair_Nullo_Cilindro_2
+    400016: armchair_Nullo_Cilindro_3
+    400018: //RootNode
+    2300000: armchair_Cubo
+    2300002: armchair_Cubo_1
+    2300004: armchair_Cubo_2
+    2300006: armchair_Nullo1_Cubo1
+    2300008: armchair_Nullo_1_Cubo2
+    2300010: armchair_Nullo_Cilindro
+    2300012: armchair_Nullo_Cilindro_1
+    2300014: armchair_Nullo_Cilindro_2
+    2300016: armchair_Nullo_Cilindro_3
+    3300000: armchair_Cubo
+    3300002: armchair_Cubo_1
+    3300004: armchair_Cubo_2
+    3300006: armchair_Nullo1_Cubo1
+    3300008: armchair_Nullo_1_Cubo2
+    3300010: armchair_Nullo_Cilindro
+    3300012: armchair_Nullo_Cilindro_1
+    3300014: armchair_Nullo_Cilindro_2
+    3300016: armchair_Nullo_Cilindro_3
+    4300000: armchair_Cubo
+    4300002: armchair_Cubo_1
+    4300004: armchair_Cubo_2
+    4300006: armchair_Nullo1_Cubo1
+    4300008: armchair_Nullo_1_Cubo2
+    4300010: armchair_Nullo_Cilindro
+    4300012: armchair_Nullo_Cilindro_1
+    4300014: armchair_Nullo_Cilindro_2
+    4300016: armchair_Nullo_Cilindro_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

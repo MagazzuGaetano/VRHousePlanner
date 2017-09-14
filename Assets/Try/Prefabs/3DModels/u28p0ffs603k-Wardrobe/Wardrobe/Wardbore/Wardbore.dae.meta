@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 435f34dca13217b49940abc01ab57717
+timeCreated: 1497015054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Blat
+    100002: "Blat_i_\u015Bcianki"
+    100004: "Bry\u0142a"
+    100006: "Bry\u0142a.2"
+    100008: "Bry\u0142a.3"
+    100010: "Bry\u0142a.4"
+    100012: Dysk
+    100014: Dysk 1
+    100016: Dysk 2
+    100018: "Dzia\u0142"
+    100020: "Dzia\u0142_1"
+    100022: "G\xF3ra"
+    100024: Lampka
+    100026: Lampka.1
+    100028: Lampka.2
+    100030: Mebel_na_dole
+    100032: "Mebel_na_g\xF3rze"
+    100034: Model_by__KIVVI
+    100036: Obiekt_zerowy
+    100038: Operacja_Boole_a
+    100040: Operacja_Boole_a 1
+    100042: "O\u015Bwietlenie"
+    100044: Podstawa
+    100046: "Podstawa_i_g\xF3ra"
+    100048: Rura
+    100050: Rura 1
+    100052: Rura 2
+    100054: Scianka
+    100056: Scianka.1
+    100058: "Scianka_dzia\u0142owa"
+    100060: "Scianka_dzia\u0142owa 1"
+    100062: "Scianka_dzia\u0142owa.1"
+    100064: "Scianka_dzia\u0142owa.2"
+    100066: "Scianka_dzia\u0142owa.3"
+    100068: "Scianka_dzia\u0142owa1"
+    100070: Scianki_dzialowe
+    100072: Szafka_na_kosmetyki
+    100074: "Sze\u015Bcian"
+    100076: "Sze\u015Bcian.1"
+    100078: "Sze\u015Bcian.2"
+    100080: "Sze\u015Bcian.3"
+    100082: Szuflady
+    100084: //RootNode
+    100086: "\u0141uki"
+    100088: "\u015Awiat\u0142o"
+    100090: "\u015Awiat\u0142o 1"
+    100092: "\u015Awiat\u0142o 2"
+    100094: "\u015Awiat\u0142o 3"
+    100096: "\u015Awiat\u0142o.1"
+    400000: Blat
+    400002: "Blat_i_\u015Bcianki"
+    400004: "Bry\u0142a"
+    400006: "Bry\u0142a.2"
+    400008: "Bry\u0142a.3"
+    400010: "Bry\u0142a.4"
+    400012: Dysk
+    400014: Dysk 1
+    400016: Dysk 2
+    400018: "Dzia\u0142"
+    400020: "Dzia\u0142_1"
+    400022: "G\xF3ra"
+    400024: Lampka
+    400026: Lampka.1
+    400028: Lampka.2
+    400030: Mebel_na_dole
+    400032: "Mebel_na_g\xF3rze"
+    400034: Model_by__KIVVI
+    400036: Obiekt_zerowy
+    400038: Operacja_Boole_a
+    400040: Operacja_Boole_a 1
+    400042: "O\u015Bwietlenie"
+    400044: Podstawa
+    400046: "Podstawa_i_g\xF3ra"
+    400048: Rura
+    400050: Rura 1
+    400052: Rura 2
+    400054: Scianka
+    400056: Scianka.1
+    400058: "Scianka_dzia\u0142owa"
+    400060: "Scianka_dzia\u0142owa 1"
+    400062: "Scianka_dzia\u0142owa.1"
+    400064: "Scianka_dzia\u0142owa.2"
+    400066: "Scianka_dzia\u0142owa.3"
+    400068: "Scianka_dzia\u0142owa1"
+    400070: Scianki_dzialowe
+    400072: Szafka_na_kosmetyki
+    400074: "Sze\u015Bcian"
+    400076: "Sze\u015Bcian.1"
+    400078: "Sze\u015Bcian.2"
+    400080: "Sze\u015Bcian.3"
+    400082: Szuflady
+    400084: //RootNode
+    400086: "\u0141uki"
+    400088: "\u015Awiat\u0142o"
+    400090: "\u015Awiat\u0142o 1"
+    400092: "\u015Awiat\u0142o 2"
+    400094: "\u015Awiat\u0142o 3"
+    400096: "\u015Awiat\u0142o.1"
+    2300000: Blat
+    2300002: "Bry\u0142a"
+    2300004: "Bry\u0142a.2"
+    2300006: "Bry\u0142a.3"
+    2300008: "Bry\u0142a.4"
+    2300010: Dysk
+    2300012: Dysk 1
+    2300014: Dysk 2
+    2300016: "Dzia\u0142"
+    2300018: "Dzia\u0142_1"
+    2300020: "G\xF3ra"
+    2300022: Podstawa
+    2300024: Rura
+    2300026: Rura 1
+    2300028: Rura 2
+    2300030: Scianka
+    2300032: Scianka.1
+    2300034: "Scianka_dzia\u0142owa"
+    2300036: "Scianka_dzia\u0142owa 1"
+    2300038: "Scianka_dzia\u0142owa.1"
+    2300040: "Scianka_dzia\u0142owa.2"
+    2300042: "Scianka_dzia\u0142owa.3"
+    2300044: "Scianka_dzia\u0142owa1"
+    2300046: "Sze\u015Bcian"
+    2300048: "Sze\u015Bcian.1"
+    2300050: "Sze\u015Bcian.2"
+    2300052: "Sze\u015Bcian.3"
+    3300000: Blat
+    3300002: "Bry\u0142a"
+    3300004: "Bry\u0142a.2"
+    3300006: "Bry\u0142a.3"
+    3300008: "Bry\u0142a.4"
+    3300010: Dysk
+    3300012: Dysk 1
+    3300014: Dysk 2
+    3300016: "Dzia\u0142"
+    3300018: "Dzia\u0142_1"
+    3300020: "G\xF3ra"
+    3300022: Podstawa
+    3300024: Rura
+    3300026: Rura 1
+    3300028: Rura 2
+    3300030: Scianka
+    3300032: Scianka.1
+    3300034: "Scianka_dzia\u0142owa"
+    3300036: "Scianka_dzia\u0142owa 1"
+    3300038: "Scianka_dzia\u0142owa.1"
+    3300040: "Scianka_dzia\u0142owa.2"
+    3300042: "Scianka_dzia\u0142owa.3"
+    3300044: "Scianka_dzia\u0142owa1"
+    3300046: "Sze\u015Bcian"
+    3300048: "Sze\u015Bcian.1"
+    3300050: "Sze\u015Bcian.2"
+    3300052: "Sze\u015Bcian.3"
+    4300000: Rura
+    4300002: Dysk
+    4300004: Rura
+    4300006: Dysk
+    4300008: Rura
+    4300010: Dysk
+    4300012: Podstawa
+    4300014: "G\xF3ra"
+    4300016: "Scianka_dzia\u0142owa"
+    4300018: "Scianka_dzia\u0142owa1"
+    4300020: "Scianka_dzia\u0142owa.1"
+    4300022: "Scianka_dzia\u0142owa"
+    4300024: "Scianka_dzia\u0142owa.2"
+    4300026: "Scianka_dzia\u0142owa.3"
+    4300028: Blat
+    4300030: "Dzia\u0142"
+    4300032: Scianka
+    4300034: "Dzia\u0142_1"
+    4300036: Scianka.1
+    4300038: "Bry\u0142a"
+    4300040: "Bry\u0142a.2"
+    4300042: "Bry\u0142a.3"
+    4300044: "Bry\u0142a.4"
+    4300046: "Sze\u015Bcian"
+    4300048: "Sze\u015Bcian.1"
+    4300050: "Sze\u015Bcian.2"
+    4300052: "Sze\u015Bcian.3"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

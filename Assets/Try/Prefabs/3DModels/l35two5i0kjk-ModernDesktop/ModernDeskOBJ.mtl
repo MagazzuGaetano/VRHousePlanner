@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.12.2013 20:19:34
+
+newmtl wire_177148027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.694118 0.580392 0.105882
+	Kd 0.694118 0.580392 0.105882
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_154185229
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.603922 0.725490 0.898039
+	Kd 0.603922 0.725490 0.898039
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_225143087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.882353 0.560784 0.341176
+	Kd 0.882353 0.560784 0.341176
+	Ks 0.350000 0.350000 0.350000
+
+newmtl _Paris2010_0Sol_4
+	Ns 31.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.405000 0.405000 0.405000
+	Ke 0.392157 0.392157 0.392157
+	map_Ka C:\Users\kakamaka\Desktop\ModernComputerDesk\Textures\Metal_Texture_PLUS_Metal_Grid.jpg
+	map_Kd C:\Users\kakamaka\Desktop\ModernComputerDesk\Textures\Metal_Texture_PLUS_Metal_Grid.jpg
+
+newmtl _Paris2010_0ChimneyBase_16
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.231373 0.231373 0.231373

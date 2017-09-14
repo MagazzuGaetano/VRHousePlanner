@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 00497ed0ff62ff8459afe52f0ea811da
+timeCreated: 1497020935
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Suppo
+    100002: back_Suppo
+    100004: Front
+    100006: Front_Sp
+    100008: Front_Supp
+    100010: Handle
+    100012: Handle_Sup
+    100014: Light
+    100016: Light_1
+    100018: Light_2
+    100020: Light_3
+    100022: Lower_Back
+    100024: Null
+    100026: Side_Suppo
+    100028: Sit
+    100030: Sit_Suppor
+    100032: Stand
+    100034: Top_
+    100036: Upper_Back
+    100038: //RootNode
+    400000: Back_Suppo
+    400002: back_Suppo
+    400004: Front
+    400006: Front_Sp
+    400008: Front_Supp
+    400010: Handle
+    400012: Handle_Sup
+    400014: Light
+    400016: Light_1
+    400018: Light_2
+    400020: Light_3
+    400022: Lower_Back
+    400024: Null
+    400026: Side_Suppo
+    400028: Sit
+    400030: Sit_Suppor
+    400032: Stand
+    400034: Top_
+    400036: Upper_Back
+    400038: //RootNode
+    2300000: Back_Suppo
+    2300002: back_Suppo
+    2300004: Front
+    2300006: Front_Sp
+    2300008: Front_Supp
+    2300010: Handle
+    2300012: Handle_Sup
+    2300014: Lower_Back
+    2300016: Null
+    2300018: Side_Suppo
+    2300020: Sit
+    2300022: Sit_Suppor
+    2300024: Stand
+    2300026: Top_
+    2300028: Upper_Back
+    3300000: Back_Suppo
+    3300002: back_Suppo
+    3300004: Front
+    3300006: Front_Sp
+    3300008: Front_Supp
+    3300010: Handle
+    3300012: Handle_Sup
+    3300014: Lower_Back
+    3300016: Null
+    3300018: Side_Suppo
+    3300020: Sit
+    3300022: Sit_Suppor
+    3300024: Stand
+    3300026: Top_
+    3300028: Upper_Back
+    4300000: Null
+    4300002: Top_
+    4300004: Sit
+    4300006: back_Suppo
+    4300008: Handle_Sup
+    4300010: Front_Sp
+    4300012: Sit_Suppor
+    4300014: Upper_Back
+    4300016: Lower_Back
+    4300018: Back_Suppo
+    4300020: Handle
+    4300022: Side_Suppo
+    4300024: Front
+    4300026: Front_Supp
+    4300028: Stand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

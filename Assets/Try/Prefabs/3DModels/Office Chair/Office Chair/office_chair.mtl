@@ -1,0 +1,47 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub llanta (1) to come 
+#
+newmtl Material__46
+Ka  0.1 0.1 0.1
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub llanta done 
+#
+newmtl tela
+Ka  0.1 0.1 0.2
+Kd  0.7 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl Chrome_Blue_Sky
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.6 0.7 0.7
+d  1.0
+Ns  9.1
+illum 2
+#
+newmtl matte_white
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.1
+illum 2
+#
+newmtl Material_2
+Ka  0.1 0.2 0.2
+Kd  0.5 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+# EOF

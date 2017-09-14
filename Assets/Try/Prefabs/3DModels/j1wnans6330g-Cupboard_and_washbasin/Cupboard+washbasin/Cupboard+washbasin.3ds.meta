@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 534eb0537cf57e74fbe3c381cadae6a7
+timeCreated: 1497015190
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _1_box
+    100002: Cube
+    100004: Cupbo
+    100006: //RootNode
+    100008: Faucet
+    100010: Handles_1
+    100012: Handles_2
+    100014: handles_3
+    100016: Outfl
+    100018: Outflow
+    100020: Plug
+    100022: Shelf
+    100024: Shelf_01
+    100026: Sink
+    100028: TooBig0
+    100030: TooBig1
+    100032: TooBig2
+    400000: _1_box
+    400002: Cube
+    400004: Cupbo
+    400006: //RootNode
+    400008: Faucet
+    400010: Handles_1
+    400012: Handles_2
+    400014: handles_3
+    400016: Outfl
+    400018: Outflow
+    400020: Plug
+    400022: Shelf
+    400024: Shelf_01
+    400026: Sink
+    400028: TooBig0
+    400030: TooBig1
+    400032: TooBig2
+    2300000: _1_box
+    2300002: Cube
+    2300004: Cupbo
+    2300006: //RootNode
+    2300008: Faucet
+    2300010: Handles_1
+    2300012: Handles_2
+    2300014: handles_3
+    2300016: Outfl
+    2300018: Outflow
+    2300020: Plug
+    2300022: Shelf
+    2300024: Shelf_01
+    2300026: Sink
+    2300028: TooBig0
+    2300030: TooBig1
+    2300032: TooBig2
+    3300000: _1_box
+    3300002: Cube
+    3300004: Cupbo
+    3300006: //RootNode
+    3300008: Faucet
+    3300010: Handles_1
+    3300012: Handles_2
+    3300014: handles_3
+    3300016: Outfl
+    3300018: Outflow
+    3300020: Plug
+    3300022: Shelf
+    3300024: Shelf_01
+    3300026: Sink
+    3300028: TooBig0
+    3300030: TooBig1
+    3300032: TooBig2
+    4300000: Cupboard
+    4300002: Cupbo
+    4300004: Faucet
+    4300006: TooBig0
+    4300008: _1_box
+    4300010: Sink
+    4300012: TooBig1
+    4300014: Shelf
+    4300016: Cube
+    4300018: Outflow
+    4300020: Outfl
+    4300022: TooBig2
+    4300024: Plug
+    4300026: Shelf_01
+    4300028: Handles_1
+    4300030: Handles_2
+    4300032: handles_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

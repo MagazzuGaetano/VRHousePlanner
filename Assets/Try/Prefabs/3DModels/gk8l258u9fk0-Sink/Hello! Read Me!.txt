@@ -1,0 +1,36 @@
+Hello there, beautiful person, who downloaded my "art"! Thank You for the download!
+I hope there will be no problems loading and managing this model.
+If there still is something wrong, please, contact me directly.
+
+My email: Ieva.lickiene@gmail.com
+
+Have a nice experience! Eat well, sleep well and be nice to Your Mom! ;D 
+
+Best Regards,
+Ieva
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+The whole info about the model is bellow.
+
+- Bathroom Sink -
+
+Models are Game-Ready.
+
+It is a polygonal model (quads and tris), scaled and represented as the original real life object. Built in real world size (units - cm).
+
+Model has 10 objects within, which are grouped to one group. For easy use objects are named logically (using English language).
+
+Models are set in world coordinates x0 y0 z0.
+
+No special plugin is needed to open scene.
+
+File Formats:
+
+.MAX 2016 
+.FBX
+.OBJ
+.3DS
+
+Warning: Depending on which software package you are using, the exchange formats (.fbx, .obj, .3ds) may not match the preview images exactly. 
+Due to the nature of these formats, there may be some textures that have to be loaded by hand and possibly triangulated geometry.

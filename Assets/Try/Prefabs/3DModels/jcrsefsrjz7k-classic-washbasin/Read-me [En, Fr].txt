@@ -1,0 +1,20 @@
+[En]
+
+Hi and thank you for downloading this model from Jetstorm_477 !
+
+> Model in 3 formats : .obj ; .sldasm ; sh3d
+  The SolidWorks file (.sldasm) is the original model from which I created the .obj model.
+  The .sh3d file is editable with the free Sweet Home 3D software, in order to change the color and the texture of different parts of furniture.
+
+enjoy ;)
+
+
+[Fr]
+
+Boujour et merci d'avoir téléchargé ce modèle de Jetstorm_477 !
+
+> Modèle joint en 3 formats : .obj ; .sldasm ; sh3d
+  Le fichier SolidWorks (.sldasm) est le modèle original à partir duquel j'ai créé le fichier .obj.
+  Le fichier .sh3d est modifiable via le logiciel gratuit Sweet Home 3D pour ainsi changer la couleur et texture des différentes parties du meuble.
+
+à+ ;)

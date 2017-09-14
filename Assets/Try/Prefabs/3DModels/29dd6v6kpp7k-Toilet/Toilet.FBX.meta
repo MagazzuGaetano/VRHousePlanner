@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 43fa2d37d54fd864fae98ccbdcec5e41
+timeCreated: 1497015114
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bolt Caps
+    100002: Bowl
+    100004: Drainage Tube
+    100006: Flush Button
+    100008: Hinges
+    100010: Lid
+    100012: Seat
+    100014: Tank
+    100016: Tank cover
+    100018: //RootNode
+    100020: Valve
+    100022: Water
+    100024: Water Tube
+    400000: Bolt Caps
+    400002: Bowl
+    400004: Drainage Tube
+    400006: Flush Button
+    400008: Hinges
+    400010: Lid
+    400012: Seat
+    400014: Tank
+    400016: Tank cover
+    400018: //RootNode
+    400020: Valve
+    400022: Water
+    400024: Water Tube
+    2300000: Bolt Caps
+    2300002: Bowl
+    2300004: Drainage Tube
+    2300006: Flush Button
+    2300008: Hinges
+    2300010: Lid
+    2300012: Seat
+    2300014: Tank
+    2300016: Tank cover
+    2300018: Valve
+    2300020: Water
+    2300022: Water Tube
+    3300000: Bolt Caps
+    3300002: Bowl
+    3300004: Drainage Tube
+    3300006: Flush Button
+    3300008: Hinges
+    3300010: Lid
+    3300012: Seat
+    3300014: Tank
+    3300016: Tank cover
+    3300018: Valve
+    3300020: Water
+    3300022: Water Tube
+    4300000: Bowl
+    4300002: Water Tube
+    4300004: Bolt Caps
+    4300006: Seat
+    4300008: Flush Button
+    4300010: Tank cover
+    4300012: Lid
+    4300014: Water
+    4300016: Valve
+    4300018: Hinges
+    4300020: Tank
+    4300022: Drainage Tube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

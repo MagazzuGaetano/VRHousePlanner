@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 01bbad718be400f488c1e96c574d736c
+timeCreated: 1497014452
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Szafka_na_kosmetyki__uki_Sze_cian
+    100002: Szafka_na_kosmetyki__uki_Sze_cian_1
+    100004: Szafka_na_kosmetyki__uki_Sze_cian_2
+    100006: Szafka_na_kosmetyki__uki_Sze_cian_3
+    100008: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Blat
+    100010: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia_
+    100012: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia__1
+    100014: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka
+    100016: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka_1
+    100018: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a
+    100020: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_2
+    100022: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_3
+    100024: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_4
+    100026: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_G_ra
+    100028: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_Podstawa
+    100030: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa1
+    100032: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa_1
+    100034: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa
+    100036: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa1
+    100038: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_2
+    100040: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_3
+    100042: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Dysk2
+    100044: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Rura2
+    100046: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Dysk
+    100048: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Rura
+    100050: Szafka_na_kosmetyki_O_wietlenie_Lampka_Dysk1
+    100052: Szafka_na_kosmetyki_O_wietlenie_Lampka_Rura1
+    100054: //RootNode
+    400000: Szafka_na_kosmetyki__uki_Sze_cian
+    400002: Szafka_na_kosmetyki__uki_Sze_cian_1
+    400004: Szafka_na_kosmetyki__uki_Sze_cian_2
+    400006: Szafka_na_kosmetyki__uki_Sze_cian_3
+    400008: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Blat
+    400010: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia_
+    400012: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia__1
+    400014: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka
+    400016: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka_1
+    400018: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a
+    400020: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_2
+    400022: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_3
+    400024: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_4
+    400026: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_G_ra
+    400028: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_Podstawa
+    400030: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa1
+    400032: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa_1
+    400034: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa
+    400036: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa1
+    400038: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_2
+    400040: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_3
+    400042: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Dysk2
+    400044: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Rura2
+    400046: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Dysk
+    400048: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Rura
+    400050: Szafka_na_kosmetyki_O_wietlenie_Lampka_Dysk1
+    400052: Szafka_na_kosmetyki_O_wietlenie_Lampka_Rura1
+    400054: //RootNode
+    2300000: Szafka_na_kosmetyki__uki_Sze_cian
+    2300002: Szafka_na_kosmetyki__uki_Sze_cian_1
+    2300004: Szafka_na_kosmetyki__uki_Sze_cian_2
+    2300006: Szafka_na_kosmetyki__uki_Sze_cian_3
+    2300008: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Blat
+    2300010: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia_
+    2300012: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia__1
+    2300014: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka
+    2300016: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka_1
+    2300018: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a
+    2300020: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_2
+    2300022: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_3
+    2300024: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_4
+    2300026: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_G_ra
+    2300028: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_Podstawa
+    2300030: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa1
+    2300032: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa_1
+    2300034: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa
+    2300036: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa1
+    2300038: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_2
+    2300040: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_3
+    2300042: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Dysk2
+    2300044: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Rura2
+    2300046: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Dysk
+    2300048: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Rura
+    2300050: Szafka_na_kosmetyki_O_wietlenie_Lampka_Dysk1
+    2300052: Szafka_na_kosmetyki_O_wietlenie_Lampka_Rura1
+    3300000: Szafka_na_kosmetyki__uki_Sze_cian
+    3300002: Szafka_na_kosmetyki__uki_Sze_cian_1
+    3300004: Szafka_na_kosmetyki__uki_Sze_cian_2
+    3300006: Szafka_na_kosmetyki__uki_Sze_cian_3
+    3300008: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Blat
+    3300010: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia_
+    3300012: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia__1
+    3300014: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka
+    3300016: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka_1
+    3300018: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a
+    3300020: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_2
+    3300022: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_3
+    3300024: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_4
+    3300026: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_G_ra
+    3300028: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_Podstawa
+    3300030: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa1
+    3300032: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa_1
+    3300034: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa
+    3300036: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa1
+    3300038: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_2
+    3300040: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_3
+    3300042: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Dysk2
+    3300044: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Rura2
+    3300046: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Dysk
+    3300048: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Rura
+    3300050: Szafka_na_kosmetyki_O_wietlenie_Lampka_Dysk1
+    3300052: Szafka_na_kosmetyki_O_wietlenie_Lampka_Rura1
+    4300000: Szafka_na_kosmetyki__uki_Sze_cian
+    4300002: Szafka_na_kosmetyki__uki_Sze_cian_1
+    4300004: Szafka_na_kosmetyki__uki_Sze_cian_2
+    4300006: Szafka_na_kosmetyki__uki_Sze_cian_3
+    4300008: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Blat
+    4300010: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia_
+    4300012: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Dzia__1
+    4300014: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka
+    4300016: Szafka_na_kosmetyki_Mebel_na_dole_Blat_i__cianki_Scianka_1
+    4300018: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a
+    4300020: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_2
+    4300022: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_3
+    4300024: Szafka_na_kosmetyki_Mebel_na_dole_Szuflady_Bry_a_4
+    4300026: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_G_ra
+    4300028: Szafka_na_kosmetyki_Mebel_na_g_rze_Podstawa_i_g_ra_Podstawa
+    4300030: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa1
+    4300032: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a1_Scianka_dzia_owa_1
+    4300034: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa
+    4300036: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Operacja_Boole_a_Scianka_dzia_owa1
+    4300038: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_2
+    4300040: Szafka_na_kosmetyki_Mebel_na_g_rze_Scianki_dzialowe_Scianka_dzia_owa_3
+    4300042: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Dysk2
+    4300044: Szafka_na_kosmetyki_O_wietlenie_Lampka_1_Rura2
+    4300046: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Dysk
+    4300048: Szafka_na_kosmetyki_O_wietlenie_Lampka_2_Rura
+    4300050: Szafka_na_kosmetyki_O_wietlenie_Lampka_Dysk1
+    4300052: Szafka_na_kosmetyki_O_wietlenie_Lampka_Rura1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

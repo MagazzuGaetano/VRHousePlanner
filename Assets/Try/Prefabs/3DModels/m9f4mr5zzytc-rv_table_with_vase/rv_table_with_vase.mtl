@@ -1,0 +1,21 @@
+newmtl blinn25SG
+illum 4
+Kd 0.05 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.58 0.58 0.58
+newmtl blinn27SG
+illum 4
+Kd 0.79 0.79 0.79
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl brown_poly1SG
+illum 4
+Kd 0.21 0.08 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.39 0.39 0.39

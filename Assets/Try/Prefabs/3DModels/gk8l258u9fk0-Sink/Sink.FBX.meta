@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 7a8a1d6e73a6ed04abfd13859c785a92
+timeCreated: 1497021004
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bowl
+    100002: Drain Tube
+    100004: Faucet
+    100006: Faucet Handle
+    100008: Flange
+    100010: Hoses
+    100012: Overflow
+    100014: //RootNode
+    100016: Stand
+    100018: Valve_01
+    100020: Valve_02
+    400000: Bowl
+    400002: Drain Tube
+    400004: Faucet
+    400006: Faucet Handle
+    400008: Flange
+    400010: Hoses
+    400012: Overflow
+    400014: //RootNode
+    400016: Stand
+    400018: Valve_01
+    400020: Valve_02
+    2300000: Bowl
+    2300002: Drain Tube
+    2300004: Faucet
+    2300006: Faucet Handle
+    2300008: Flange
+    2300010: Hoses
+    2300012: Overflow
+    2300014: Stand
+    2300016: Valve_01
+    2300018: Valve_02
+    3300000: Bowl
+    3300002: Drain Tube
+    3300004: Faucet
+    3300006: Faucet Handle
+    3300008: Flange
+    3300010: Hoses
+    3300012: Overflow
+    3300014: Stand
+    3300016: Valve_01
+    3300018: Valve_02
+    4300000: Hoses
+    4300002: Flange
+    4300004: Overflow
+    4300006: Valve_02
+    4300008: Faucet
+    4300010: Stand
+    4300012: Drain Tube
+    4300014: Valve_01
+    4300016: Bowl
+    4300018: Faucet Handle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

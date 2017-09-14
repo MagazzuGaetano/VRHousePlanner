@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: b939b4b86ff92e4479d94b7df435b552
+timeCreated: 1497015864
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back Support
+    100002: back Support
+    100004: Front Sp
+    100006: Front Support 1
+    100008: Front Support 2
+    100010: Handle
+    100012: Handle Support
+    100014: Light
+    100016: Light.1
+    100018: Light.2
+    100020: Light.3
+    100022: Lower Back Support
+    100024: Null
+    100026: Side Support
+    100028: Sit
+    100030: Sit Support
+    100032: Stand
+    100034: 'Top '
+    100036: Upper Back Support
+    100038: //RootNode
+    400000: Back Support
+    400002: back Support
+    400004: Front Sp
+    400006: Front Support 1
+    400008: Front Support 2
+    400010: Handle
+    400012: Handle Support
+    400014: Light
+    400016: Light.1
+    400018: Light.2
+    400020: Light.3
+    400022: Lower Back Support
+    400024: Null
+    400026: Side Support
+    400028: Sit
+    400030: Sit Support
+    400032: Stand
+    400034: 'Top '
+    400036: Upper Back Support
+    400038: //RootNode
+    2300000: Back Support
+    2300002: back Support
+    2300004: Front Sp
+    2300006: Front Support 1
+    2300008: Front Support 2
+    2300010: Handle
+    2300012: Handle Support
+    2300014: Lower Back Support
+    2300016: Side Support
+    2300018: Sit
+    2300020: Sit Support
+    2300022: Stand
+    2300024: 'Top '
+    2300026: Upper Back Support
+    3300000: Back Support
+    3300002: back Support
+    3300004: Front Sp
+    3300006: Front Support 1
+    3300008: Front Support 2
+    3300010: Handle
+    3300012: Handle Support
+    3300014: Lower Back Support
+    3300016: Side Support
+    3300018: Sit
+    3300020: Sit Support
+    3300022: Stand
+    3300024: 'Top '
+    3300026: Upper Back Support
+    4300000: 'Top '
+    4300002: Sit
+    4300004: back Support
+    4300006: Handle Support
+    4300008: Front Sp
+    4300010: Sit Support
+    4300012: Upper Back Support
+    4300014: Lower Back Support
+    4300016: Back Support
+    4300018: Handle
+    4300020: Side Support
+    4300022: Front Support 2
+    4300024: Front Support 1
+    4300026: Stand
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
