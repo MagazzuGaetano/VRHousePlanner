@@ -6,3 +6,5 @@ Let you Organize the structure of walls ,put windows and doors, paint walls insi
 hosting: https://vrhouseplanner.herokuapp.com/
 
 ![screenshot_2017-07-11-15-46-25](https://user-images.githubusercontent.com/30373288/31865289-e5f2d350-b76c-11e7-92fe-4d8c9b8b912e.png)
+
+![screenshot_2017-06-19-16-50-44](https://user-images.githubusercontent.com/30373288/31865300-2cab7928-b76d-11e7-8238-4ad45bb373d1.png)
