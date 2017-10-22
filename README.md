@@ -5,12 +5,8 @@ Let you Organize the structure of walls ,put windows and doors, paint walls insi
 
 hosting: https://vrhouseplanner.herokuapp.com/
 
-![screenshot_2017-07-11-15-46-25](https://user-images.githubusercontent.com/30373288/31865289-e5f2d350-b76c-11e7-92fe-4d8c9b8b912e.png)
-
-![screenshot_2017-06-19-16-50-44](https://user-images.githubusercontent.com/30373288/31865300-2cab7928-b76d-11e7-8238-4ad45bb373d1.png)
-
-![screenshot_2017-06-19-16-38-04](https://user-images.githubusercontent.com/30373288/31865325-b57af8a0-b76d-11e7-964b-c1cbca92bb73.png)
-
-![screenshot_2017-06-19-16-40-05](https://user-images.githubusercontent.com/30373288/31865334-da16482c-b76d-11e7-8ca1-2e88b5e30288.png)
-
-![screenshot_2017-06-25-14-53-10](https://user-images.githubusercontent.com/30373288/31865337-f22dd1e6-b76d-11e7-9137-18129bd76ffe.png)
+![screenshot_2017-06-19-16-38-04](https://user-images.githubusercontent.com/30373288/31865727-c7d404f0-b773-11e7-8980-2e2b760374fd.png)
+![screenshot_2017-07-11-15-46-25](https://user-images.githubusercontent.com/30373288/31865728-c7f93856-b773-11e7-8e67-f1a113305d68.png)
+![screenshot_2017-06-25-14-53-10](https://user-images.githubusercontent.com/30373288/31865729-c81c8144-b773-11e7-9a5d-16bd2ebbba07.png)
+![screenshot_2017-06-19-16-50-44](https://user-images.githubusercontent.com/30373288/31865730-c840d846-b773-11e7-9af1-76549c93696f.png)
+![screenshot_2017-06-19-16-40-05](https://user-images.githubusercontent.com/30373288/31865732-c88038b0-b773-11e7-8967-c160788b1d09.png)
