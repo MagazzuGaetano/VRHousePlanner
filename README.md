@@ -1,7 +1,7 @@
 # VRHousePlanner
-A VR Unity Android Application that Allow you to create a simple Project of a House and watch it in VR.
+A Virtual Reality Unity Android Application that allow you to create a simple project of a house and watch it in VR.
 
-This application let you organize the structure of walls ,put windows and doors, paint walls inside and outside change the floor, positioning various kinds of furnitures in order to create your personal home or at least see the project in VR like you was really inside that house.
+This application let you organize the structure of walls, put windows and doors, paint walls inside and outside, change the floor and positioning various kinds of furnitures in order to create your personal home or at least see the project in VR like you was really inside that house.
 
 hosting: https://vrhouseplanner.herokuapp.com/
 
